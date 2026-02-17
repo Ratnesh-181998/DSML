@@ -1,6 +1,8 @@
 # Data Science and Machine Learning (DSML) | ML | Deep Learning - Neural Network | Computer Vision | NLP 
 [![Scaler](https://img.shields.io/badge/Scaler-FF6B6B?style=for-the-badge&logo=scaler&logoColor=white)](https://www.scaler.com/academy/profile/16d9756ebf65/)
 
+https://www.scaler.com/academy/profile/16d9756ebf65/
+
 <img width="1864" height="763" alt="image" src="https://github.com/user-attachments/assets/c62856bc-121d-4fa6-9304-a7d8cc761ac3" />
 
 ---
