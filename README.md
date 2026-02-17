@@ -7,7 +7,8 @@
 <img width="1919" height="646" alt="image" src="https://github.com/user-attachments/assets/19217cfd-8f34-46a8-9d4e-2f243d104094" />
 <img width="527" height="859" alt="image" src="https://github.com/user-attachments/assets/1eada655-25eb-4b7c-9f35-96d30d317f88" />
 
----
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
 # 🚀 Learning Roadmap
 
@@ -46,7 +47,8 @@
 - 24.Agentic AI and MCP
 
 
----
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
 # DSML ( Data Science and Machine Learning ) 
 
@@ -70,7 +72,8 @@
 
 ### 17.Neural Networks
 
----
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
 ## MACHINE LEARNING
 
@@ -95,7 +98,8 @@
 
 
 
----
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
 ## DATA ANALYST
 
@@ -114,15 +118,17 @@
 ### 6.Data Analytics & Visualization – Python Libraries
 
 
----
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
 ## SQL
 
 ###  5.Common Core Tools (SQL)
 
 
----
 
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
 ## Python Programming | OOPS Concepts | DSA
 
