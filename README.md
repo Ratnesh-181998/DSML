@@ -5,6 +5,9 @@ https://www.scaler.com/academy/profile/16d9756ebf65/
 
 <img width="1864" height="763" alt="image" src="https://github.com/user-attachments/assets/c62856bc-121d-4fa6-9304-a7d8cc761ac3" />
 
+<img width="1115" height="781" alt="image" src="https://github.com/user-attachments/assets/a8cfacfb-2043-4b12-9474-4d395de7e3fc" />
+
+
 ---
 
 # DSML ( Data Science and Machine Learning ) 1620+ Problem Solved By Ratnesh Kumar Singh 
