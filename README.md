@@ -10,38 +10,39 @@ https://www.scaler.com/academy/profile/16d9756ebf65/
 
 ---
 
-# DEEP LEARNING
-23. Generative AI  
-22. Prompt Engineering  
-21. Large Language Model  
-20. Transformers  
-19. Natural Language Processing  
-18. Computer Vision  
-17. Neural Networks  
+# Python Programming | OOPS Concepts | DSA
+- 1.Introduction to Programming (Beginner) – 1
+- 2.Introduction to Programming (Beginner) – 2 
+- 3.Introduction to Problem Solving (Intermediate) – 1
+- 4.Introduction to Problem Solving (Intermediate) – 2   
+ 
+# SQL
+- 5.Common Core Tools (SQL)
+   
+# DATA ANALYST
+- 6.Data Analytics & Visualization – Python Libraries
+- 7.Data Analytics & Visualization – Probability & Statistics
+- 8.Data Analytics & Visualization – Fundamentals
+- 9.Tableau, Power BI & Excel  
+- 10.Product Analytics  
 
 # MACHINE LEARNING
-16. MLOps  
-15. Unsupervised Learning, Recommender Systems, Time Series & Forecasting  
-14. Advanced Supervised Algorithms  
-13. Supervised Algorithms  
-12. Introduction to ML & Neural Networks  
-11. Mathematics for Machine Learning  
+- 11.Mathematics for Machine Learning
+- 12.Introduction to ML & Neural Networks
+- 13.Supervised Algorithms
+- 14.Advanced Supervised Algorithms
+- 15.Unsupervised Learning, Recommender Systems, Time Series & Forecasting     
+- 16.MLOps  
 
-# DATA ANALYST
-10. Product Analytics  
-9. Tableau, Power BI & Excel  
-8. Data Analytics & Visualization – Fundamentals  
-7. Data Analytics & Visualization – Probability & Statistics  
-6. Data Analytics & Visualization – Python Libraries  
-
-# SQL
-5. Common Core Tools (SQL)
-
-# Python Programming | OOPS Concepts | DSA
-4. Introduction to Problem Solving (Intermediate) – 2  
-3. Introduction to Problem Solving (Intermediate) – 1  
-2. Introduction to Programming (Beginner) – 2  
-1. Introduction to Programming (Beginner) – 1  
+# DEEP LEARNING 
+- 17.Neural Networks
+- 18.Computer Vision
+- 19.Natural Language Processing  
+- 20.Transformers  
+- 21.Large Language Model  
+- 22.Prompt Engineering    
+- 23.Generative AI
+- 24.Agentic AI and MCP
 
 <img width="499" height="681" alt="image" src="https://github.com/user-attachments/assets/7aceabf6-c929-44c0-9df3-2b45cf9a7fb3" />
 
