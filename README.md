@@ -11,13 +11,13 @@ https://www.scaler.com/academy/profile/16d9756ebf65/
 ---
 
 # DEEP LEARNING
--24. Generative AI 
--22. Prompt Engineering 
--21. Large Language Model 
--20. Transformers 
--19. Natural Language Processing
--18. Computer Vision  
--17. Neural Networks  
+- 24. Generative AI 
+- 22. Prompt Engineering 
+- 21. Large Language Model 
+- 20. Transformers 
+- 19. Natural Language Processing
+- 18. Computer Vision  
+- 17. Neural Networks  
 
 # MACHINE LEARNING 
 - 16. MLOps
