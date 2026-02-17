@@ -10,76 +10,41 @@ https://www.scaler.com/academy/profile/16d9756ebf65/
 
 ---
 
-# 🚀 Learning Roadmap
+# 🚀 Learning Roadmap ( Descending Order )
 
 ## 🧠 DEEP LEARNING
-24. Generative AI  
-23. Prompt Engineering  
-22. Large Language Model  
-21. Transformers  
-20. Natural Language Processing  
-19. Computer Vision  
-18. Neural Networks  
+23. Generative AI  
+22. Prompt Engineering  
+21. Large Language Model  
+20. Transformers  
+19. Natural Language Processing  
+18. Computer Vision  
+17. Neural Networks  
 
 ## 🤖 MACHINE LEARNING
-17. MLOps  
-16. Unsupervised Learning, Recommender Systems, Time Series & Forecasting  
-15. Advanced Supervised Algorithms  
-14. Supervised Algorithms  
-13. Introduction to ML & Neural Networks  
-12. Mathematics for Machine Learning  
+16. MLOps  
+15. Unsupervised Learning, Recommender Systems, Time Series & Forecasting  
+14. Advanced Supervised Algorithms  
+13. Supervised Algorithms  
+12. Introduction to ML & Neural Networks  
+11. Mathematics for Machine Learning  
 
 ## 📊 DATA ANALYTICS
-11. Product Analytics  
-10. Tableau, Power BI & Excel  
-9. Data Analytics & Visualization – Fundamentals  
-8. Data Analytics & Visualization – Probability & Statistics  
-7. Data Analytics & Visualization – Python Libraries  
+10. Product Analytics  
+9. Tableau, Power BI & Excel  
+8. Data Analytics & Visualization – Fundamentals  
+7. Data Analytics & Visualization – Probability & Statistics  
+6. Data Analytics & Visualization – Python Libraries  
 
 ## 🗄️ SQL
-6. Common Core Tools (SQL)
+5. Common Core Tools (SQL)
 
 ## 🐍 Python Programming | OOPS | DSA
-5. Introduction to Problem Solving (Intermediate) – 2  
-4. Introduction to Problem Solving (Intermediate) – 1  
-3. Introduction to Programming (Beginner) – 2  
-2. Introduction to Programming (Beginner) – 1  
+4. Introduction to Problem Solving (Intermediate) – 2  
+3. Introduction to Problem Solving (Intermediate) – 1  
+2. Introduction to Programming (Beginner) – 2  
+1. Introduction to Programming (Beginner) – 1 
 
-
----
-
-# DEEP LEARNING
-- 24. Generative AI 
-- 22. Prompt Engineering 
-- 21. Large Language Model 
-- 20. Transformers 
-- 19. Natural Language Processing
-- 18. Computer Vision  
-- 17. Neural Networks  
-
-# MACHINE LEARNING 
-- 16. MLOps
-- 15. Unsupervised and RecSys , Timeseries ,Forecasting
-- 14. Adv Supervised Algorithms
-- 13. Supervised Algorithms
-- 12. Intro to ML and NN
-- 11. Maths for ML
-
-# DATA ANALYST
-- 10. Product Analytics
-- 9. Tableau ,PowerBI and Excel
-- 8. Data Analytics and Visualisation - Fundamentals
-- 7. Data Analytics and Visualisation - Probability and Stats
-- 6. Data Analytics and Visualisation - Python Libraries
-
-# SQL
-- 5. Common Core Tools(SQL)
-     
-# Pythong Programming | OOPS Concepts | DSA
-- 4. Introduction to Problem Solving (Intermediate) 2
-- 3. Introduction to Problem Solving (Intermediate) 1
-- 2. Introduction to Programming (Beginner) 2
-- 1. Introduction to Programming (Beginner) 1
 
 ---
 
