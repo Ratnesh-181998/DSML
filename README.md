@@ -10,6 +10,41 @@ https://www.scaler.com/academy/profile/16d9756ebf65/
 
 ---
 
+# DEEP LEARNING
+- 24. Generative AI 
+- 22. Prompt Engineering 
+- 21. Large Language Model 
+- 20. Transformers 
+- 19. Natural Language Processing
+- 18. Computer Vision  
+- 17. Neural Networks  
+
+# MACHINE LEARNING 
+- 16. MLOps
+- 15. Unsupervised and RecSys , Timeseries ,Forecasting
+- 14. Adv Supervised Algorithms
+- 13. Supervised Algorithms
+- 12. Intro to ML and NN
+- 11. Maths for ML
+
+# DATA ANALYST
+- 10. Product Analytics
+- 9. Tableau ,PowerBI and Excel
+- 8. Data Analytics and Visualisation - Fundamentals
+- 7. Data Analytics and Visualisation - Probability and Stats
+- 6. Data Analytics and Visualisation - Python Libraries
+
+# SQL
+- 5. Common Core Tools(SQL)
+     
+# Pythong Programming | OOPS Concepts | DSA
+- 4. Introduction to Problem Solving (Intermediate) 2
+- 3. Introduction to Problem Solving (Intermediate) 1
+- 2. Introduction to Programming (Beginner) 2
+- 1. Introduction to Programming (Beginner) 1
+
+---
+
 # DSML ( Data Science and Machine Learning ) 1620+ Problem Solved By Ratnesh Kumar Singh 
 
 <img width="940" height="391" alt="image" src="https://github.com/user-attachments/assets/c0b41773-26ee-4618-806d-f735af2dd124" />
@@ -21,7 +56,7 @@ https://www.scaler.com/academy/profile/16d9756ebf65/
 <img width="940" height="391" alt="image" src="https://github.com/user-attachments/assets/78fb6c38-7fb9-4210-adaf-2e6d225967b3" />
 
  
-
+---
  
 
  
