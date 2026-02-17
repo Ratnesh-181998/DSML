@@ -5,6 +5,8 @@ https://www.scaler.com/academy/profile/16d9756ebf65/
 
 <img width="1864" height="763" alt="image" src="https://github.com/user-attachments/assets/c62856bc-121d-4fa6-9304-a7d8cc761ac3" />
 
+<img width="1919" height="646" alt="image" src="https://github.com/user-attachments/assets/19217cfd-8f34-46a8-9d4e-2f243d104094" />
+<img width="527" height="859" alt="image" src="https://github.com/user-attachments/assets/1eada655-25eb-4b7c-9f35-96d30d317f88" />
 
 ---
 
