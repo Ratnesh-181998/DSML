@@ -1,4 +1,6 @@
-# Data Science and Machine Learning (DSML) | ML | Deep Learning - Neural Network | Computer Vision | NLP 
+# Data Science and Machine Learning (DSML) | ML | Deep Learning - Neural Network | Computer Vision | NLP  
+## 1620+ Problem Solved By Ratnesh Kumar Singh 
+
 [![Scaler](https://img.shields.io/badge/Scaler-FF6B6B?style=for-the-badge&logo=scaler&logoColor=white)](https://www.scaler.com/academy/profile/16d9756ebf65/)
 
 https://www.scaler.com/academy/profile/16d9756ebf65/
