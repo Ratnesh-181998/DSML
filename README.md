@@ -9,6 +9,7 @@ https://www.scaler.com/academy/profile/16d9756ebf65/
 <img width="527" height="859" alt="image" src="https://github.com/user-attachments/assets/1eada655-25eb-4b7c-9f35-96d30d317f88" />
 
 ---
+
 # 🚀 Learning Roadmap
 
 ## Python Programming | OOPS Concepts | DSA
@@ -50,6 +51,11 @@ https://www.scaler.com/academy/profile/16d9756ebf65/
 
 # DSML ( Data Science and Machine Learning ) 1620+ Problem Solved By Ratnesh Kumar Singh 
 
+
+## DEEP LEARNING 
+
+### 19.Natural Language Processing 
+
 <img width="940" height="391" alt="image" src="https://github.com/user-attachments/assets/c0b41773-26ee-4618-806d-f735af2dd124" />
 <img width="940" height="387" alt="image" src="https://github.com/user-attachments/assets/f89ba163-7b0f-43dd-ad6b-0d918fafc697" />
 <img width="940" height="392" alt="image" src="https://github.com/user-attachments/assets/39134bbc-4bce-4425-8fd8-87dcecb9c9d1" />
@@ -58,7 +64,80 @@ https://www.scaler.com/academy/profile/16d9756ebf65/
 <img width="940" height="399" alt="image" src="https://github.com/user-attachments/assets/e5a1b21c-3a0b-4d05-b28f-4c377ed5bc17" />
 <img width="940" height="391" alt="image" src="https://github.com/user-attachments/assets/78fb6c38-7fb9-4210-adaf-2e6d225967b3" />
 
- 
+### 18.Computer Vision
+
+
+### 17.Neural Networks
+
+---
+
+## MACHINE LEARNING
+
+### 16.MLOps  
+
+
+### 15.Unsupervised Learning, Recommender Systems, Time Series & Forecasting 
+
+
+### 14.Advanced Supervised Algorithms
+
+
+
+### 13.Supervised Algorithms
+
+
+### 12.Introduction to ML & Neural Networks
+
+
+
+###  11.Mathematics for Machine Learning
+
+
+
+---
+
+## DATA ANALYST
+
+### 10.Product Analytics  
+
+
+### 9.Tableau, Power BI & Excel 
+
+
+### 8.Data Analytics & Visualization – Fundamentals
+
+
+### 7.Data Analytics & Visualization – Probability & Statistics
+
+
+### 6.Data Analytics & Visualization – Python Libraries
+
+
+---
+
+## SQL
+
+###  5.Common Core Tools (SQL)
+
+
+---
+
+
+## Python Programming | OOPS Concepts | DSA
+
+
+### 4.Introduction to Problem Solving (Intermediate) – 2   
+
+
+### 3.Introduction to Problem Solving (Intermediate) – 1
+
+
+### 2.Introduction to Programming (Beginner) – 2 
+
+  
+### 1.Introduction to Programming (Beginner) – 1
+
+
 ---
  
 
