@@ -9,24 +9,25 @@ https://www.scaler.com/academy/profile/16d9756ebf65/
 <img width="527" height="859" alt="image" src="https://github.com/user-attachments/assets/1eada655-25eb-4b7c-9f35-96d30d317f88" />
 
 ---
+# 🚀 Learning Roadmap
 
-# Python Programming | OOPS Concepts | DSA
+## Python Programming | OOPS Concepts | DSA
 - 1.Introduction to Programming (Beginner) – 1
 - 2.Introduction to Programming (Beginner) – 2 
 - 3.Introduction to Problem Solving (Intermediate) – 1
 - 4.Introduction to Problem Solving (Intermediate) – 2   
  
-# SQL
+## SQL
 - 5.Common Core Tools (SQL)
    
-# DATA ANALYST
+## DATA ANALYST
 - 6.Data Analytics & Visualization – Python Libraries
 - 7.Data Analytics & Visualization – Probability & Statistics
 - 8.Data Analytics & Visualization – Fundamentals
 - 9.Tableau, Power BI & Excel  
 - 10.Product Analytics  
 
-# MACHINE LEARNING
+## MACHINE LEARNING
 - 11.Mathematics for Machine Learning
 - 12.Introduction to ML & Neural Networks
 - 13.Supervised Algorithms
@@ -34,7 +35,7 @@ https://www.scaler.com/academy/profile/16d9756ebf65/
 - 15.Unsupervised Learning, Recommender Systems, Time Series & Forecasting     
 - 16.MLOps  
 
-# DEEP LEARNING 
+## DEEP LEARNING 
 - 17.Neural Networks
 - 18.Computer Vision
 - 19.Natural Language Processing  
@@ -44,7 +45,6 @@ https://www.scaler.com/academy/profile/16d9756ebf65/
 - 23.Generative AI
 - 24.Agentic AI and MCP
 
-<img width="499" height="681" alt="image" src="https://github.com/user-attachments/assets/7aceabf6-c929-44c0-9df3-2b45cf9a7fb3" />
 
 ---
 
