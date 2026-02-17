@@ -10,9 +10,7 @@ https://www.scaler.com/academy/profile/16d9756ebf65/
 
 ---
 
-# 🚀 Learning Roadmap ( Descending Order )
-
-## 🧠 DEEP LEARNING
+# DEEP LEARNING
 23. Generative AI  
 22. Prompt Engineering  
 21. Large Language Model  
@@ -21,7 +19,7 @@ https://www.scaler.com/academy/profile/16d9756ebf65/
 18. Computer Vision  
 17. Neural Networks  
 
-## 🤖 MACHINE LEARNING
+# MACHINE LEARNING
 16. MLOps  
 15. Unsupervised Learning, Recommender Systems, Time Series & Forecasting  
 14. Advanced Supervised Algorithms  
@@ -29,22 +27,23 @@ https://www.scaler.com/academy/profile/16d9756ebf65/
 12. Introduction to ML & Neural Networks  
 11. Mathematics for Machine Learning  
 
-## 📊 DATA ANALYTICS
+# DATA ANALYST
 10. Product Analytics  
 9. Tableau, Power BI & Excel  
 8. Data Analytics & Visualization – Fundamentals  
 7. Data Analytics & Visualization – Probability & Statistics  
 6. Data Analytics & Visualization – Python Libraries  
 
-## 🗄️ SQL
+# SQL
 5. Common Core Tools (SQL)
 
-## 🐍 Python Programming | OOPS | DSA
+# Python Programming | OOPS Concepts | DSA
 4. Introduction to Problem Solving (Intermediate) – 2  
 3. Introduction to Problem Solving (Intermediate) – 1  
 2. Introduction to Programming (Beginner) – 2  
-1. Introduction to Programming (Beginner) – 1 
+1. Introduction to Programming (Beginner) – 1  
 
+<img width="499" height="681" alt="image" src="https://github.com/user-attachments/assets/7aceabf6-c929-44c0-9df3-2b45cf9a7fb3" />
 
 ---
 
