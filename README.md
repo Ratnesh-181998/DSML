@@ -50,7 +50,8 @@ https://www.scaler.com/academy/profile/16d9756ebf65/
 ---
 
 # DSML ( Data Science and Machine Learning ) 
-- **[1620+ Problem Solved By Ratnesh Kumar Singh ](https://github.com/Ratnesh-181998/DSML/blob/main/DSML%20Assignment%201621%20Problem%20Solved%20By%20Ratnesh.pdf)**
+
+## [1620+ Problem Solved By Ratnesh Kumar Singh ](https://github.com/Ratnesh-181998/DSML/blob/main/DSML%20Assignment%201621%20Problem%20Solved%20By%20Ratnesh.pdf)
 
 
 ## DEEP LEARNING 
