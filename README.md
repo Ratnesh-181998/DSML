@@ -1,4 +1,11 @@
+
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
+
 # Data Science and Machine Learning (DSML) | ML | Deep Learning - Neural Network | Computer Vision | NLP  | 1620+ Problem Solved By Ratnesh Kumar Singh 
+
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
 # [![Scaler](https://img.shields.io/badge/Scaler-FF6B6B?style=for-the-badge&logo=scaler&logoColor=white)](https://www.scaler.com/academy/profile/16d9756ebf65/)
 
@@ -55,7 +62,12 @@
 ## [1620+ Problem Solved By Ratnesh Kumar Singh ](https://github.com/Ratnesh-181998/DSML/blob/main/DSML%20Assignment%201621%20Problem%20Solved%20By%20Ratnesh.pdf)
 
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
+
 ## DEEP LEARNING 
+
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
 ### 19.Natural Language Processing 
 
@@ -76,6 +88,9 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
 ## MACHINE LEARNING
+
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
 ### 16.MLOps  
 
@@ -103,6 +118,9 @@
 
 ## DATA ANALYST
 
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
+
 ### 10.Product Analytics  
 
 
@@ -123,6 +141,10 @@
 
 ## SQL
 
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
+
+
 ###  5.Common Core Tools (SQL)
 
 
@@ -131,6 +153,9 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
 ## Python Programming | OOPS Concepts | DSA
+
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
 
 ### 4.Introduction to Problem Solving (Intermediate) – 2   
