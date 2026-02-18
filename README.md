@@ -15,12 +15,14 @@
 
 <img width="1864" height="763" alt="image" src="https://github.com/user-attachments/assets/c62856bc-121d-4fa6-9304-a7d8cc761ac3" />
 
+<img width="4097" height="1353" alt="image" src="https://github.com/user-attachments/assets/20448d04-63f0-4af5-92dc-86a8a212ac8c" />
+
+
 <img width="1586" height="1403" alt="image" src="https://github.com/user-attachments/assets/41e58683-82ed-4ad9-ae7d-7d584f112118" />
 	
 <img width="1586" height="1354" alt="image" src="https://github.com/user-attachments/assets/8e952e72-afed-410c-8daa-3a11b361a3a9" />
 
 
-<img width="527" height="859" alt="image" src="https://github.com/user-attachments/assets/1eada655-25eb-4b7c-9f35-96d30d317f88" />
 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
