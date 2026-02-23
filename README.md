@@ -5,7 +5,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
-# Data Science and Machine Learning (DSML) | ML | Deep Learning - Neural Network | Computer Vision | NLP  | 1620+ Problem Solved By Ratnesh Kumar Singh 
+# Data Science and Machine Learning (DSML) | ML | Deep Learning - Neural Network | Computer Vision | NLP  | AI/ML 1620+ Problem Solved By Ratnesh Kumar Singh 
 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
