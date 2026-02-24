@@ -81,6 +81,12 @@
 
 ### 19.Natural Language Processing 
 
+### Sub Topics of NLP
+
+<img width="2317" height="1105" alt="image" src="https://github.com/user-attachments/assets/3f733653-5e7b-43cc-a020-80b49d6f4d00" />
+
+### Sub Topics of NLP Solved Questions 
+
 <img width="940" height="391" alt="image" src="https://github.com/user-attachments/assets/c0b41773-26ee-4618-806d-f735af2dd124" />
 <img width="940" height="387" alt="image" src="https://github.com/user-attachments/assets/f89ba163-7b0f-43dd-ad6b-0d918fafc697" />
 <img width="940" height="392" alt="image" src="https://github.com/user-attachments/assets/39134bbc-4bce-4425-8fd8-87dcecb9c9d1" />
