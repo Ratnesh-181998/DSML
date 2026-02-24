@@ -89,12 +89,17 @@
 <img width="940" height="399" alt="image" src="https://github.com/user-attachments/assets/e5a1b21c-3a0b-4d05-b28f-4c377ed5bc17" />
 <img width="940" height="391" alt="image" src="https://github.com/user-attachments/assets/78fb6c38-7fb9-4210-adaf-2e6d225967b3" />
 <img width="940" height="382" alt="image" src="https://github.com/user-attachments/assets/1f927f04-59c9-4387-a062-20b3f03d92a2" />
-<img width="940" height="382" alt="image" src="https://github.com/user-attachments/assets/1f927f04-59c9-4387-a062-20b3f03d92a2" />
 <img width="940" height="378" alt="image" src="https://github.com/user-attachments/assets/7bd4a21d-108c-41cb-90e8-d86ad921ac58" />
-<img width="940" height="378" alt="image" src="https://github.com/user-attachments/assets/7bd4a21d-108c-41cb-90e8-d86ad921ac58" />
+<img width="940" height="377" alt="image" src="https://github.com/user-attachments/assets/ba1527ce-1e68-46c2-8425-7c9725f80a5b" />
+<img width="940" height="398" alt="image" src="https://github.com/user-attachments/assets/4b0d311b-1c90-4377-b521-631a5b383816" />
+<img width="940" height="385" alt="image" src="https://github.com/user-attachments/assets/946dfbb8-77b4-40fb-9b13-79132f95f75e" />
+<img width="2810" height="139" alt="image" src="https://github.com/user-attachments/assets/d4f17fca-69ea-4fe0-b01f-ee588a30c370" />
 
 
 ### 18.Computer Vision
+
+<img width="2750" height="1179" alt="image" src="https://github.com/user-attachments/assets/b663273b-5bc2-464a-96c6-9beaa6e3c4e3" />
+
 
 
 ### 17.Neural Networks
