@@ -137,8 +137,9 @@
 <img width="2771" height="1233" alt="image" src="https://github.com/user-attachments/assets/c35dde20-770f-4066-9865-dc56d3e98974" />
 <img width="2803" height="1203" alt="image" src="https://github.com/user-attachments/assets/8ae6d4f7-c971-4ce5-948f-7dd02366e3e7" />
 <img width="2756" height="1168" alt="image" src="https://github.com/user-attachments/assets/76448ef2-c5c9-4eed-9856-ddfa312c3963" />
-<img width="2763" height="1242" alt="image" src="https://github.com/user-attachments/assets/350477b7-704e-4c5f-9e62-0b49ad4fd847" />
-<img width="2765" height="1239" alt="image" src="https://github.com/user-attachments/assets/2b39dee8-8175-4b4b-b71a-5163b0da56c2" />
+<img width="2809" height="1056" alt="image" src="https://github.com/user-attachments/assets/b2407c98-d35b-4580-a723-1d5c6a6b5e75" />
+
+
 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
