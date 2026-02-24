@@ -126,6 +126,11 @@
 ## 17.Neural Networks
 
 
+### Sub Topics of Neural Networks
+<img width="2364" height="1252" alt="image" src="https://github.com/user-attachments/assets/52df67c2-11d2-489a-ad42-e1960395de89" />
+<img width="2314" height="482" alt="image" src="https://github.com/user-attachments/assets/a84149bf-d871-477c-b762-baeb0574ac00" />
+
+### Sub Topics of Neural Networks Solved Questions 
 <img width="2767" height="1256" alt="image" src="https://github.com/user-attachments/assets/4efce765-a241-45a4-a0d9-909a8252bb01" />
 <img width="2824" height="1180" alt="image" src="https://github.com/user-attachments/assets/2e9490f6-8f8c-4e9d-a01e-6e7699ec82c8" />
 <img width="2771" height="1233" alt="image" src="https://github.com/user-attachments/assets/c35dde20-770f-4066-9865-dc56d3e98974" />
