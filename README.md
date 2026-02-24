@@ -118,6 +118,12 @@
 <img width="2763" height="1240" alt="image" src="https://github.com/user-attachments/assets/0065cd78-98d4-4e18-b9e4-482ef1409a93" />
 <img width="2784" height="1184" alt="image" src="https://github.com/user-attachments/assets/dc3dbd94-c15b-48d1-b565-2443e2e5d82b" />
 <img width="2804" height="1231" alt="image" src="https://github.com/user-attachments/assets/56f2edde-6a88-4c77-a930-562e5590b28b" />
+
+
+
+
+### 17.Neural Networks
+
 <img width="2802" height="1238" alt="image" src="https://github.com/user-attachments/assets/611e295b-1e5e-4ae4-8c31-fbdb5a9b618b" />
 <img width="2767" height="1256" alt="image" src="https://github.com/user-attachments/assets/4efce765-a241-45a4-a0d9-909a8252bb01" />
 <img width="2824" height="1180" alt="image" src="https://github.com/user-attachments/assets/2e9490f6-8f8c-4e9d-a01e-6e7699ec82c8" />
@@ -126,10 +132,6 @@
 <img width="2756" height="1168" alt="image" src="https://github.com/user-attachments/assets/76448ef2-c5c9-4eed-9856-ddfa312c3963" />
 <img width="2763" height="1242" alt="image" src="https://github.com/user-attachments/assets/350477b7-704e-4c5f-9e62-0b49ad4fd847" />
 <img width="2765" height="1239" alt="image" src="https://github.com/user-attachments/assets/2b39dee8-8175-4b4b-b71a-5163b0da56c2" />
-
-
-
-### 17.Neural Networks
 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
