@@ -74,12 +74,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
-## DEEP LEARNING 
+# DEEP LEARNING 
 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
-### 19.Natural Language Processing 
+## 19.Natural Language Processing 
 
 ### Sub Topics of NLP
 
@@ -103,7 +103,7 @@
 <img width="2810" height="139" alt="image" src="https://github.com/user-attachments/assets/d4f17fca-69ea-4fe0-b01f-ee588a30c370" />
 
 
-### 18.Computer Vision
+## 18.Computer Vision
 
 <img width="2750" height="1179" alt="image" src="https://github.com/user-attachments/assets/b663273b-5bc2-464a-96c6-9beaa6e3c4e3" />
 
