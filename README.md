@@ -79,6 +79,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
+---
+
 ## 19.Natural Language Processing 
 
 ### Sub Topics of NLP
@@ -102,6 +104,7 @@
 <img width="940" height="385" alt="image" src="https://github.com/user-attachments/assets/946dfbb8-77b4-40fb-9b13-79132f95f75e" />
 <img width="2810" height="139" alt="image" src="https://github.com/user-attachments/assets/d4f17fca-69ea-4fe0-b01f-ee588a30c370" />
 
+---
 
 ## 18.Computer Vision
 
@@ -121,7 +124,7 @@
 <img width="2772" height="489" alt="image" src="https://github.com/user-attachments/assets/632d95bd-f1cc-450b-b915-762bed10f0bd" />
 
 
-
+---
 
 ## 17.Neural Networks
 
@@ -140,17 +143,32 @@
 <img width="2809" height="1056" alt="image" src="https://github.com/user-attachments/assets/b2407c98-d35b-4580-a723-1d5c6a6b5e75" />
 
 
+---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
+
+# MACHINE LEARNING
 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
-## MACHINE LEARNING
+---
+
+## 16.MLOps  
+
+### Sub Topics of MLOps  
+<img width="2156" height="1095" alt="image" src="https://github.com/user-attachments/assets/c5721038-bf36-4e61-8b9c-d639c39679b9" />
+<img width="2177" height="789" alt="image" src="https://github.com/user-attachments/assets/23a691a9-ff3b-4946-94d5-100f867de395" />
 
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
+### Sub Topics of MLOps  Solved Questions 
+<img width="2764" height="1225" alt="image" src="https://github.com/user-attachments/assets/e9e3e02e-9999-41aa-8ddc-fdc3b2f58efe" />
+<img width="2766" height="1238" alt="image" src="https://github.com/user-attachments/assets/6f1af3dd-2222-4f11-870f-e2c86d56e742" />
+<img width="2763" height="1259" alt="image" src="https://github.com/user-attachments/assets/018d72a9-2412-461a-b452-90cc21a472b9" />
+<img width="2783" height="1205" alt="image" src="https://github.com/user-attachments/assets/5d86261c-3b4d-486f-a89c-f2f398d6c056" />
 
-### 16.MLOps  
 
+---
 
 ### 15.Unsupervised Learning, Recommender Systems, Time Series & Forecasting 
 
