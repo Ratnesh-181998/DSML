@@ -105,11 +105,11 @@
 
 ## 18.Computer Vision
 
-### Sub Topics of NLP
+### Sub Topics of Computer Vision
 <img width="2294" height="1158" alt="image" src="https://github.com/user-attachments/assets/d622a00d-188a-4ba1-85d2-76a494ea0d0d" />
 <img width="2318" height="525" alt="image" src="https://github.com/user-attachments/assets/88b9aac4-ff7d-474d-99d8-d4f136af3fb4" />
 
-### Sub Topics of NLP Solved Questions 
+### Sub Topics of Computer Vision Solved Questions 
 <img width="2750" height="1179" alt="image" src="https://github.com/user-attachments/assets/b663273b-5bc2-464a-96c6-9beaa6e3c4e3" />
 <img width="2754" height="1245" alt="image" src="https://github.com/user-attachments/assets/48c08a08-b359-4c18-9fc2-55a5e39b4abd" />
 <img width="2792" height="1190" alt="image" src="https://github.com/user-attachments/assets/d5a36657-25a6-4932-a986-4c1d6f89318d" />
@@ -124,7 +124,7 @@
 
 ### 17.Neural Networks
 
-<img width="2802" height="1238" alt="image" src="https://github.com/user-attachments/assets/611e295b-1e5e-4ae4-8c31-fbdb5a9b618b" />
+
 <img width="2767" height="1256" alt="image" src="https://github.com/user-attachments/assets/4efce765-a241-45a4-a0d9-909a8252bb01" />
 <img width="2824" height="1180" alt="image" src="https://github.com/user-attachments/assets/2e9490f6-8f8c-4e9d-a01e-6e7699ec82c8" />
 <img width="2771" height="1233" alt="image" src="https://github.com/user-attachments/assets/c35dde20-770f-4066-9865-dc56d3e98974" />
