@@ -105,7 +105,27 @@
 
 ## 18.Computer Vision
 
+### Sub Topics of NLP
+<img width="2294" height="1158" alt="image" src="https://github.com/user-attachments/assets/d622a00d-188a-4ba1-85d2-76a494ea0d0d" />
+<img width="2318" height="525" alt="image" src="https://github.com/user-attachments/assets/88b9aac4-ff7d-474d-99d8-d4f136af3fb4" />
+
+### Sub Topics of NLP Solved Questions 
 <img width="2750" height="1179" alt="image" src="https://github.com/user-attachments/assets/b663273b-5bc2-464a-96c6-9beaa6e3c4e3" />
+<img width="2754" height="1245" alt="image" src="https://github.com/user-attachments/assets/48c08a08-b359-4c18-9fc2-55a5e39b4abd" />
+<img width="2792" height="1190" alt="image" src="https://github.com/user-attachments/assets/d5a36657-25a6-4932-a986-4c1d6f89318d" />
+<img width="2787" height="1192" alt="image" src="https://github.com/user-attachments/assets/ad7f0afa-f38b-47f9-9e60-c3747b2c255b" />
+<img width="2764" height="1189" alt="image" src="https://github.com/user-attachments/assets/7c3535b9-dec1-4725-bec1-04be31bb115d" />
+<img width="2763" height="1240" alt="image" src="https://github.com/user-attachments/assets/0065cd78-98d4-4e18-b9e4-482ef1409a93" />
+<img width="2784" height="1184" alt="image" src="https://github.com/user-attachments/assets/dc3dbd94-c15b-48d1-b565-2443e2e5d82b" />
+<img width="2804" height="1231" alt="image" src="https://github.com/user-attachments/assets/56f2edde-6a88-4c77-a930-562e5590b28b" />
+<img width="2802" height="1238" alt="image" src="https://github.com/user-attachments/assets/611e295b-1e5e-4ae4-8c31-fbdb5a9b618b" />
+<img width="2767" height="1256" alt="image" src="https://github.com/user-attachments/assets/4efce765-a241-45a4-a0d9-909a8252bb01" />
+<img width="2824" height="1180" alt="image" src="https://github.com/user-attachments/assets/2e9490f6-8f8c-4e9d-a01e-6e7699ec82c8" />
+<img width="2771" height="1233" alt="image" src="https://github.com/user-attachments/assets/c35dde20-770f-4066-9865-dc56d3e98974" />
+<img width="2803" height="1203" alt="image" src="https://github.com/user-attachments/assets/8ae6d4f7-c971-4ce5-948f-7dd02366e3e7" />
+<img width="2756" height="1168" alt="image" src="https://github.com/user-attachments/assets/76448ef2-c5c9-4eed-9856-ddfa312c3963" />
+<img width="2763" height="1242" alt="image" src="https://github.com/user-attachments/assets/350477b7-704e-4c5f-9e62-0b49ad4fd847" />
+<img width="2765" height="1239" alt="image" src="https://github.com/user-attachments/assets/2b39dee8-8175-4b4b-b71a-5163b0da56c2" />
 
 
 
