@@ -171,24 +171,65 @@
 
 ---
 
-### 15.Unsupervised Learning, Recommender Systems, Time Series & Forecasting 
+## 15.Unsupervised Learning, Recommender Systems, Time Series & Forecasting 
 
+### Sub Topics of Unsupervised Learning, Recommender Systems, Time Series & Forecasting 
+<img width="2306" height="1174" alt="image" src="https://github.com/user-attachments/assets/2f123c65-0784-4169-9da0-1421f0453e37" />
+<img width="2302" height="658" alt="image" src="https://github.com/user-attachments/assets/3163f2c0-29be-4f37-9238-f07d9c721e14" />
+
+### Sub Topics of Unsupervised Learning, Recommender Systems, Time Series & Forecasting Solved Questions 
+
+
+---
 
 ### 14.Advanced Supervised Algorithms
 
+### Sub Topics of Advanced Supervised Algorithms
+<img width="2298" height="1157" alt="image" src="https://github.com/user-attachments/assets/580924c9-dfe9-4c22-b3ed-43e61b66aef3" />
+<img width="2290" height="1041" alt="image" src="https://github.com/user-attachments/assets/61389d1a-7abe-48a0-ae75-3649006fb255" />
 
+### Sub Topics of  Advanced Supervised Algorithms Solved Questions 
+
+
+
+---
 
 ### 13.Supervised Algorithms
 
+### Sub Topics of Supervised Algorithms
+
+<img width="2310" height="1104" alt="image" src="https://github.com/user-attachments/assets/bd9555cc-b8a6-440a-ac52-6ff3356e155b" />
+<img width="2289" height="654" alt="image" src="https://github.com/user-attachments/assets/6906c7fa-e2f8-45a6-a21e-0c137d9b6aea" />
+
+### Sub Topics of Supervised Algorithms Solved Questions 
+
+
+
+---
 
 ### 12.Introduction to ML & Neural Networks
 
+### Sub Topics of Introduction to ML & Neural Networks
+<img width="2281" height="979" alt="image" src="https://github.com/user-attachments/assets/3675cab2-b680-4098-b581-c14170689776" />
+<img width="2296" height="770" alt="image" src="https://github.com/user-attachments/assets/38ac2ef4-37ba-44cf-b332-b8292c4e6c06" />
 
+### Sub Topics of Introduction to ML & Neural Networks Solved Questions 
+
+
+---
 
 ###  11.Mathematics for Machine Learning
 
+### Sub Topics of Mathematics for Machine Learning
+<img width="2282" height="1121" alt="image" src="https://github.com/user-attachments/assets/1cc2fb0f-0d1d-4d3f-961f-da5b80a6762a" />
+<img width="2317" height="500" alt="image" src="https://github.com/user-attachments/assets/87cc4592-f8a8-44e6-bd32-6201d8b2bae7" />
 
 
+
+### Sub Topics of Mathematics for Machine Learning Solved Questions 
+
+
+---
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
