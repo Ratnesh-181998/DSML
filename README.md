@@ -84,6 +84,7 @@
 ### Sub Topics of NLP
 
 <img width="2317" height="1105" alt="image" src="https://github.com/user-attachments/assets/3f733653-5e7b-43cc-a020-80b49d6f4d00" />
+<img width="2306" height="517" alt="image" src="https://github.com/user-attachments/assets/4f738886-d622-42a6-a918-f8fdfd3ce190" />
 
 ### Sub Topics of NLP Solved Questions 
 
