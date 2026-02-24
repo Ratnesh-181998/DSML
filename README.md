@@ -110,6 +110,7 @@
 <img width="2318" height="525" alt="image" src="https://github.com/user-attachments/assets/88b9aac4-ff7d-474d-99d8-d4f136af3fb4" />
 
 ### Sub Topics of Computer Vision Solved Questions 
+<img width="2776" height="794" alt="image" src="https://github.com/user-attachments/assets/8ebe7082-0959-4563-a1c0-2caebedf0299" />
 <img width="2750" height="1179" alt="image" src="https://github.com/user-attachments/assets/b663273b-5bc2-464a-96c6-9beaa6e3c4e3" />
 <img width="2754" height="1245" alt="image" src="https://github.com/user-attachments/assets/48c08a08-b359-4c18-9fc2-55a5e39b4abd" />
 <img width="2792" height="1190" alt="image" src="https://github.com/user-attachments/assets/d5a36657-25a6-4932-a986-4c1d6f89318d" />
