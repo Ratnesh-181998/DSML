@@ -280,6 +280,12 @@
 
 
 ### Sub Topics of Product Analytics Solved Questions 
+<img width="940" height="408" alt="image" src="https://github.com/user-attachments/assets/7603eb6a-488d-4d23-be9a-fb79098b020e" />
+<img width="940" height="396" alt="image" src="https://github.com/user-attachments/assets/a0b9fdc0-8d1a-49ba-98a4-999f069dadeb" />
+<img width="940" height="398" alt="image" src="https://github.com/user-attachments/assets/828a8e2c-aa1e-4906-b2b9-77ca2664632a" />
+<img width="940" height="397" alt="image" src="https://github.com/user-attachments/assets/59d79bd3-fc15-457d-8582-5a7cfac8e4a1" />
+<img width="940" height="399" alt="image" src="https://github.com/user-attachments/assets/83cf362e-7c7f-40c4-aa77-e28a657e180c" />
+<img width="940" height="235" alt="image" src="https://github.com/user-attachments/assets/ccd7d413-7a6a-4cf5-98a0-e8f998cf5aa9" />
 
 
 ---
@@ -292,6 +298,16 @@
 
 
 ### Sub Topics of Tableau, Power BI & Excel  Solved Questions 
+<img width="940" height="392" alt="image" src="https://github.com/user-attachments/assets/43cb712d-5aec-4e5b-a404-9c2d7d7e266e" />
+<img width="940" height="425" alt="image" src="https://github.com/user-attachments/assets/b48105bb-99a5-44a6-9997-5fddc0f69067" />
+<img width="940" height="416" alt="image" src="https://github.com/user-attachments/assets/c6522a6d-0da2-4c85-834c-86c56a5ebde4" />
+<img width="940" height="417" alt="image" src="https://github.com/user-attachments/assets/6aaa7b14-0b86-48e1-b8ef-cb6e7460bc1a" />
+<img width="940" height="421" alt="image" src="https://github.com/user-attachments/assets/547fbec7-eba8-4e29-a0bd-e1f7a6ba0b96" />
+<img width="940" height="408" alt="image" src="https://github.com/user-attachments/assets/4167ecf6-33d2-44f4-a669-63e060223d69" />
+<img width="940" height="420" alt="image" src="https://github.com/user-attachments/assets/4283410d-28e5-423f-9d18-d3d30209d216" />
+<img width="940" height="426" alt="image" src="https://github.com/user-attachments/assets/bf281557-706b-460c-85cd-6f25ee82393d" />
+<img width="940" height="232" alt="image" src="https://github.com/user-attachments/assets/ab07bb6b-7575-4f92-8f00-1fee54fb02f1" />
+<img width="940" height="269" alt="image" src="https://github.com/user-attachments/assets/68031b9e-9e1d-4698-a960-4d7e43c8a6b4" />
 
 
 ---
@@ -304,6 +320,11 @@
 
 
 ### Sub Topics of Data Analytics & Visualization – Fundamentals Solved Questions 
+<img width="940" height="413" alt="image" src="https://github.com/user-attachments/assets/d5b126e9-c5f9-4f11-b68a-30545b19bb1d" />
+<img width="940" height="420" alt="image" src="https://github.com/user-attachments/assets/8ff2ec34-baef-4732-8fa5-1ccbf6757bb8" />
+<img width="940" height="401" alt="image" src="https://github.com/user-attachments/assets/08e6e1b2-2059-4085-bcde-034dadf466e5" />
+<img width="940" height="399" alt="image" src="https://github.com/user-attachments/assets/bc0d9d20-c4ac-4acd-9d06-8d80f0642543" />
+<img width="940" height="193" alt="image" src="https://github.com/user-attachments/assets/3d2c7d71-2fec-4f95-a141-e8af1aeb5de3" />
 
 
 ---
@@ -318,6 +339,14 @@
 
 
 ### Sub Topics of Data Analytics & Visualization – Probability & Statistics Solved Questions 
+<img width="940" height="415" alt="image" src="https://github.com/user-attachments/assets/ed8ce52f-7dce-4dba-a3d5-4149917916cb" />
+<img width="940" height="394" alt="image" src="https://github.com/user-attachments/assets/124e6572-36d2-4425-8dfe-3cd60ce1cc49" />
+<img width="940" height="409" alt="image" src="https://github.com/user-attachments/assets/37997389-0b14-4058-8cc4-84189642b89d" />
+<img width="940" height="417" alt="image" src="https://github.com/user-attachments/assets/b584fffb-e32e-4e14-86c6-660ec93fcb22" />
+<img width="940" height="397" alt="image" src="https://github.com/user-attachments/assets/8cb215f4-6030-44f7-8e58-fa31b22360d1" />
+<img width="940" height="421" alt="image" src="https://github.com/user-attachments/assets/86af0e45-4a8e-465e-bf2a-5ecbc7663a3c" />
+<img width="940" height="427" alt="image" src="https://github.com/user-attachments/assets/da17ec3f-d84a-4bc0-8ffc-f0f81fe5253c" />
+<img width="940" height="389" alt="image" src="https://github.com/user-attachments/assets/a8664aea-5fe6-447c-8a54-03f0d5c35251" />
 
 
 ---
@@ -331,6 +360,15 @@
 
 
 ### Sub Topics of Data Analytics & Visualization – Python Libraries Solved Questions 
+<img width="940" height="400" alt="image" src="https://github.com/user-attachments/assets/94f8ae87-bf93-4cc8-8f59-80c9b3e9c8e2" />
+<img width="940" height="409" alt="image" src="https://github.com/user-attachments/assets/c991a7a0-c249-4993-a960-6ea728debe0a" />
+<img width="940" height="411" alt="image" src="https://github.com/user-attachments/assets/f12e1797-b74f-4cab-872d-d43c0d59791d" />
+<img width="940" height="400" alt="image" src="https://github.com/user-attachments/assets/d909bcd1-1a84-4d4c-b3b8-49bc9b4b0d07" />
+<img width="940" height="416" alt="image" src="https://github.com/user-attachments/assets/8328b4d7-bbdc-4fd4-90af-6636f1b5c50f" />
+<img width="940" height="416" alt="image" src="https://github.com/user-attachments/assets/2dc175c8-9a65-47e2-a03f-47bb1af10bf9" />
+<img width="940" height="420" alt="image" src="https://github.com/user-attachments/assets/e6187b26-e9de-4269-9c94-5bcca804fa58" />
+<img width="940" height="419" alt="image" src="https://github.com/user-attachments/assets/a7401f76-1fb4-4098-991c-d6dcee55a158" />
+<img width="940" height="144" alt="image" src="https://github.com/user-attachments/assets/02c3ede7-3fd6-4416-b100-1fca447603fa" />
 
 
 ---
@@ -352,6 +390,13 @@
 
 
 ### Sub Topics of Common Core Tools (SQL) Solved Questions 
+<img width="940" height="419" alt="image" src="https://github.com/user-attachments/assets/ed856dec-8e15-4535-8ced-d277eec6967e" />
+<img width="940" height="421" alt="image" src="https://github.com/user-attachments/assets/fb5ce09a-7152-4551-940e-aab6968a9baa" />
+<img width="940" height="412" alt="image" src="https://github.com/user-attachments/assets/84ff52c1-773f-4776-923f-978ce0392936" />
+<img width="940" height="411" alt="image" src="https://github.com/user-attachments/assets/8a6fb858-61fe-4409-a1dd-d7d756423692" />
+<img width="940" height="416" alt="image" src="https://github.com/user-attachments/assets/bbde03d6-8af8-4c91-ad17-c0e5895002f8" />
+<img width="940" height="132" alt="image" src="https://github.com/user-attachments/assets/a58e3105-38c5-4765-b999-b01d7c5f536f" />
+<img width="940" height="293" alt="image" src="https://github.com/user-attachments/assets/121883c4-2023-446d-a620-9c4fc23dde11" />
 
 
 ---
