@@ -242,6 +242,8 @@
 ## 10.Product Analytics  
 
 ### Sub Topics of Product Analytics  
+<img width="2166" height="1133" alt="image" src="https://github.com/user-attachments/assets/93dd4ebc-3dc4-43a0-ba88-87165ef77144" />
+<img width="2138" height="1109" alt="image" src="https://github.com/user-attachments/assets/df5b33d2-f8b9-49a0-b3a1-e6ad2696373e" />
 
 
 ### Sub Topics of Product Analytics Solved Questions 
@@ -251,8 +253,10 @@
 
 ## 9.Tableau, Power BI & Excel 
 
-
 ### Sub Topics of Tableau, Power BI & Excel 
+<img width="2204" height="1236" alt="image" src="https://github.com/user-attachments/assets/13c7009f-d0c8-4ed1-a448-922ca4ef723e" />
+<img width="2145" height="1132" alt="image" src="https://github.com/user-attachments/assets/2ebf5317-de74-480e-835f-f8c7a82ab231" />
+
 
 ### Sub Topics of Tableau, Power BI & Excel  Solved Questions 
 
@@ -262,6 +266,8 @@
 ## 8.Data Analytics & Visualization – Fundamentals
 
 ### Sub Topics of Data Analytics & Visualization – Fundamentals 
+<img width="2149" height="1252" alt="image" src="https://github.com/user-attachments/assets/b8abc04c-e492-4b06-9b1f-1b242c83a769" />
+<img width="2133" height="1197" alt="image" src="https://github.com/user-attachments/assets/095844e3-0b9a-4562-a399-4a119a5d8259" />
 
 
 ### Sub Topics of Data Analytics & Visualization – Fundamentals Solved Questions 
@@ -273,6 +279,10 @@
 
 ### Sub Topics of Data Analytics & Visualization – Probability & Statistics
 
+<img width="2129" height="1225" alt="image" src="https://github.com/user-attachments/assets/f7f3ceb7-583d-4286-b32a-030845229f11" />
+<img width="2153" height="1207" alt="image" src="https://github.com/user-attachments/assets/242e5f2a-45c0-4a86-97ac-a55aa3f9a5d3" />
+<img width="2160" height="1117" alt="image" src="https://github.com/user-attachments/assets/dc7ccf92-2ec3-4c1f-8257-3fb3cbcbb51e" />
+
 
 ### Sub Topics of Data Analytics & Visualization – Probability & Statistics Solved Questions 
 
@@ -282,6 +292,9 @@
 ## 6.Data Analytics & Visualization – Python Libraries
 
 ### Sub Topics of Data Analytics & Visualization – Python Libraries
+<img width="2155" height="1224" alt="image" src="https://github.com/user-attachments/assets/79c17db9-590f-46d1-aefe-6bb7e7d52feb" />
+<img width="2167" height="496" alt="image" src="https://github.com/user-attachments/assets/6260e02a-c1b0-4409-8cac-9cfad0e01f21" />
+<img width="2158" height="389" alt="image" src="https://github.com/user-attachments/assets/5f7483e3-7fde-4b04-8d20-13611204a178" />
 
 
 ### Sub Topics of Data Analytics & Visualization – Python Libraries Solved Questions 
@@ -299,8 +312,10 @@
 
 ###  5.Common Core Tools (SQL)
 
-
 ### Sub Topics of Common Core Tools (SQL)
+
+<img width="2168" height="1208" alt="image" src="https://github.com/user-attachments/assets/8a960c78-d169-483a-9942-459e9635a5ad" />
+<img width="2140" height="1067" alt="image" src="https://github.com/user-attachments/assets/8ed0d2ca-454c-4bfb-beb4-0425e54423ee" />
 
 
 ### Sub Topics of Common Core Tools (SQL) Solved Questions 
@@ -319,6 +334,10 @@
 ## 4.Introduction to Problem Solving (Intermediate) – 2   
 
 ### Sub Topics of Introduction to Problem Solving (Intermediate) – 2
+<img width="2162" height="372" alt="image" src="https://github.com/user-attachments/assets/80e24f9b-06b9-4ae4-bbc5-3527ad56279d" />
+<img width="2142" height="1211" alt="image" src="https://github.com/user-attachments/assets/82e1f1f4-aa1c-4d50-a877-3e4e110020ba" />
+<img width="2153" height="826" alt="image" src="https://github.com/user-attachments/assets/6a892224-0141-4379-9666-b56ba1649fd0" />
+<img width="2136" height="945" alt="image" src="https://github.com/user-attachments/assets/e1d3f7b5-8ff6-4301-8a0a-9fcfb520f090" />
 
 
 ### Sub Topics of Introduction to Problem Solving (Intermediate) – 2 Solved Questions 
@@ -328,8 +347,10 @@
 
 ## 3.Introduction to Problem Solving (Intermediate) – 1
 
-
 ### Sub Topics of Introduction to Problem Solving (Intermediate) – 1
+<img width="2163" height="1215" alt="image" src="https://github.com/user-attachments/assets/783e0e3d-cca3-424d-bc9b-a223e211f03e" />
+<img width="2135" height="1042" alt="image" src="https://github.com/user-attachments/assets/7fe7e887-9bed-4542-9bc6-b60e7b2687fd" />
+<img width="2139" height="578" alt="image" src="https://github.com/user-attachments/assets/c30b0b58-2e1d-4450-bd21-99f3b2c44101" />
 
 
 ### Sub Topics of Introduction to Problem Solving (Intermediate) – 1 Solved Questions 
@@ -340,6 +361,9 @@
 ## 2.Introduction to Programming (Beginner) – 2 
 
 ### Sub Topics of Introduction to Programming (Beginner) – 2 
+<img width="2163" height="1190" alt="image" src="https://github.com/user-attachments/assets/97948a75-5a0c-4668-aae5-491fcead4746" />
+<img width="2159" height="725" alt="image" src="https://github.com/user-attachments/assets/3fc6a284-524a-42c6-bd65-a92907095f15" />
+<img width="2165" height="358" alt="image" src="https://github.com/user-attachments/assets/219624c5-b092-4224-bd68-ad5c4a126c99" />
 
 
 ### Sub Topics of Introduction to Programming (Beginner) – 2  Solved Questions 
@@ -350,6 +374,10 @@
 ## 1.Introduction to Programming (Beginner) – 1
 
 ### Sub Topics of Introduction to Programming (Beginner) – 1
+
+<img width="2157" height="1078" alt="image" src="https://github.com/user-attachments/assets/1a08da53-5785-4395-8584-808ece218736" />
+<img width="2124" height="1067" alt="image" src="https://github.com/user-attachments/assets/9bdb2fa8-3b01-4109-b4b1-0f6c1a88f309" />
+<img width="2171" height="289" alt="image" src="https://github.com/user-attachments/assets/52322cce-8b6f-478b-9865-71cabc0d3db3" />
 
 
 ### Sub Topics of Introduction to Programming (Beginner) – 1 Solved Questions 
