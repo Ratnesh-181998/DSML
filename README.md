@@ -221,6 +221,8 @@
 <img width="2804" height="1253" alt="image" src="https://github.com/user-attachments/assets/451f5e34-8ecf-485e-b3a7-f50cb3eab6af" />
 <img width="2777" height="1243" alt="image" src="https://github.com/user-attachments/assets/9550999a-15a7-4a7c-aa0a-e1ca794f8260" />
 <img width="2743" height="794" alt="image" src="https://github.com/user-attachments/assets/11429e91-6b19-4582-afa3-117f802ed918" />
+<img width="2786" height="1158" alt="image" src="https://github.com/user-attachments/assets/fb13c14b-3ac9-45a2-890e-b003f2e4bbfb" />
+<img width="2780" height="906" alt="image" src="https://github.com/user-attachments/assets/b9344c04-0503-4f12-ba28-081dd958d397" />
 
 
 ---
@@ -232,6 +234,9 @@
 <img width="2296" height="770" alt="image" src="https://github.com/user-attachments/assets/38ac2ef4-37ba-44cf-b332-b8292c4e6c06" />
 
 ### Sub Topics of Introduction to ML & Neural Networks Solved Questions 
+<img width="2828" height="1180" alt="image" src="https://github.com/user-attachments/assets/b45f78cd-5341-4ac1-9c88-43b142ae6564" />
+<img width="2845" height="1190" alt="image" src="https://github.com/user-attachments/assets/d94d8db4-b6cf-4bf8-b58b-68bc846ab5f9" />
+<img width="2773" height="1249" alt="image" src="https://github.com/user-attachments/assets/e361fa32-ea8e-4f1d-8876-817dc246d071" />
 
 
 ---
