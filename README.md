@@ -214,7 +214,13 @@
 <img width="2289" height="654" alt="image" src="https://github.com/user-attachments/assets/6906c7fa-e2f8-45a6-a21e-0c137d9b6aea" />
 
 ### Sub Topics of Supervised Algorithms Solved Questions 
-
+<img width="2842" height="1171" alt="image" src="https://github.com/user-attachments/assets/236e608d-0c68-40dc-93ad-b13e1814f9ca" />
+<img width="2806" height="1181" alt="image" src="https://github.com/user-attachments/assets/8272f19e-c26f-4254-b8c6-8e4e97114664" />
+<img width="2809" height="1199" alt="image" src="https://github.com/user-attachments/assets/ab7f4f7b-0a04-4685-a1f7-81ad5accbcef" />
+<img width="2803" height="1201" alt="image" src="https://github.com/user-attachments/assets/1ca21814-19b7-4f63-b885-d88e9bc295a1" />
+<img width="2804" height="1253" alt="image" src="https://github.com/user-attachments/assets/451f5e34-8ecf-485e-b3a7-f50cb3eab6af" />
+<img width="2777" height="1243" alt="image" src="https://github.com/user-attachments/assets/9550999a-15a7-4a7c-aa0a-e1ca794f8260" />
+<img width="2743" height="794" alt="image" src="https://github.com/user-attachments/assets/11429e91-6b19-4582-afa3-117f802ed918" />
 
 
 ---
