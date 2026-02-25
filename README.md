@@ -69,12 +69,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
-# ML system design and data engineering Module 
+# ML System Design and Data Engineering 
 
 <img width="2158" height="1220" alt="image" src="https://github.com/user-attachments/assets/ebd14a34-78fa-4041-af17-84e6e59d59f2" />
 <img width="2152" height="1207" alt="image" src="https://github.com/user-attachments/assets/f0c3b14d-2b0c-42c8-bf77-8f22dbbeb1b9" />
 <img width="2158" height="1225" alt="image" src="https://github.com/user-attachments/assets/436691aa-91ac-48ce-95ea-e798ed0698ec" />
-<img width="2181" height="1110" alt="image" src="https://github.com/user-attachments/assets/30d19458-2dfd-4537-81db-6c275f70e692" />
+<img width="2123" height="186" alt="image" src="https://github.com/user-attachments/assets/398ebd96-8218-4942-a1de-aad9f2c15a05" />
+
 
 
 
@@ -85,7 +86,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
-# Generative AI Module 
+# Generative AI 
+
+<img width="2156" height="1062" alt="image" src="https://github.com/user-attachments/assets/2c97551a-f83a-41d8-a68d-c8da2fdd8cf7" />
+<img width="2147" height="1264" alt="image" src="https://github.com/user-attachments/assets/22547064-ab86-471e-a09c-9e4a09e74e81" />
+<img width="2125" height="847" alt="image" src="https://github.com/user-attachments/assets/9a782118-9993-47d2-beef-0d7f0cc0a428" />
+
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
