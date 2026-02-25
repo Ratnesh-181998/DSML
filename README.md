@@ -419,6 +419,16 @@
 
 
 ### Sub Topics of Introduction to Problem Solving (Intermediate) – 2 Solved Questions 
+<img width="940" height="425" alt="image" src="https://github.com/user-attachments/assets/831c5f6f-3583-4189-b63b-05f816df5141" />
+<img width="940" height="424" alt="image" src="https://github.com/user-attachments/assets/8537dff3-175d-431f-936e-16d5054a8e88" />
+<img width="940" height="430" alt="image" src="https://github.com/user-attachments/assets/d8438675-4c9f-41d8-a6ea-012cba6335c1" />
+<img width="940" height="413" alt="image" src="https://github.com/user-attachments/assets/1eeec31e-c002-4a89-9259-769d1fc2552a" />
+<img width="940" height="399" alt="image" src="https://github.com/user-attachments/assets/49b92f37-4473-4cb2-87d9-285f8fc10421" />
+<img width="940" height="416" alt="image" src="https://github.com/user-attachments/assets/8ee76a3a-d2f3-41be-823a-d41f38f52753" />
+<img width="940" height="426" alt="image" src="https://github.com/user-attachments/assets/6d915702-1260-4e76-81bc-6aaecec26c45" />
+<img width="940" height="423" alt="image" src="https://github.com/user-attachments/assets/235eb7cf-932e-4be5-9f41-9de1613566e5" />
+<img width="940" height="429" alt="image" src="https://github.com/user-attachments/assets/0f3973a8-d89c-4ac4-b7f7-22b921535647" />
+<img width="940" height="205" alt="image" src="https://github.com/user-attachments/assets/c2dadc24-7e6b-41fb-a8df-6f30a5438e87" />
 
 
 ---
@@ -432,6 +442,9 @@
 
 
 ### Sub Topics of Introduction to Problem Solving (Intermediate) – 1 Solved Questions 
+<img width="940" height="394" alt="image" src="https://github.com/user-attachments/assets/f9c75577-6d8d-4b4c-af36-7de2baf92b31" />
+<img width="940" height="421" alt="image" src="https://github.com/user-attachments/assets/ff824db7-c4e2-4c55-908e-904bc0c267b1" />
+<img width="940" height="64" alt="image" src="https://github.com/user-attachments/assets/bc045c83-8ab0-4ae7-9fef-22750bf7388f" />
 
 
 ---
@@ -445,6 +458,13 @@
 
 
 ### Sub Topics of Introduction to Programming (Beginner) – 2  Solved Questions 
+<img width="940" height="416" alt="image" src="https://github.com/user-attachments/assets/803c923f-cc4f-4259-ab2b-95d96fb4a908" />
+<img width="940" height="419" alt="image" src="https://github.com/user-attachments/assets/1efd590b-126a-4d5c-8ce0-c22a26dfb706" />
+<img width="940" height="416" alt="image" src="https://github.com/user-attachments/assets/baa32e7a-27d9-4b03-bd37-48b0ae1db8f9" />
+<img width="940" height="428" alt="image" src="https://github.com/user-attachments/assets/c2764022-c332-40bf-aabd-ecb8b2f7bf2b" />
+<img width="940" height="419" alt="image" src="https://github.com/user-attachments/assets/f0bd4740-8814-43db-bbbd-3536b5241994" />
+<img width="940" height="426" alt="image" src="https://github.com/user-attachments/assets/e713bddd-56cb-4b06-af50-b948414e8be5" />
+<img width="940" height="169" alt="image" src="https://github.com/user-attachments/assets/1f21ca3c-342c-4b0a-9e94-ecf6b4c93c9c" />
 
 
 ---
@@ -459,6 +479,19 @@
 
 
 ### Sub Topics of Introduction to Programming (Beginner) – 1 Solved Questions 
+<img width="940" height="423" alt="image" src="https://github.com/user-attachments/assets/ba4fcc38-175c-48da-b2f6-0f72cc21aff1" />
+<img width="940" height="419" alt="image" src="https://github.com/user-attachments/assets/ab250bd8-a112-4eb7-9323-cecb7ada9246" />
+<img width="940" height="423" alt="image" src="https://github.com/user-attachments/assets/71e7d4e2-9a5e-4daf-84e5-a2da4e27a399" />
+<img width="940" height="423" alt="image" src="https://github.com/user-attachments/assets/244ec240-4057-40cd-9971-306bec41aeb0" />
+<img width="940" height="420" alt="image" src="https://github.com/user-attachments/assets/49f63358-9582-447d-bbee-1d5b66be0926" />
+<img width="940" height="422" alt="image" src="https://github.com/user-attachments/assets/8b0608f4-8278-4329-8d48-f328e4762789" />
+<img width="940" height="408" alt="image" src="https://github.com/user-attachments/assets/909fb9ca-f382-4d93-a72c-e7f7d9f4e834" />
+<img width="940" height="423" alt="image" src="https://github.com/user-attachments/assets/233540c0-06a0-4a4d-85bb-3bc4fedc1cfa" />
+<img width="940" height="419" alt="image" src="https://github.com/user-attachments/assets/1addeac6-a183-466b-b0ca-275423e74092" />
+<img width="940" height="422" alt="image" src="https://github.com/user-attachments/assets/cd1ecee1-c877-41fa-bda9-112b456fb10e" />
+<img width="940" height="416" alt="image" src="https://github.com/user-attachments/assets/ef8f87a3-822e-4c90-b927-36d7631366c7" />
+<img width="940" height="423" alt="image" src="https://github.com/user-attachments/assets/4950f3c4-1279-4d00-b620-724f4afe7931" />
+<img width="940" height="353" alt="image" src="https://github.com/user-attachments/assets/b2756bc9-34a1-4a86-bea9-02ab9220669a" />
 
 
 ---
