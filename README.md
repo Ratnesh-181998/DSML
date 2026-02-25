@@ -182,6 +182,8 @@
 <img width="2792" height="1261" alt="image" src="https://github.com/user-attachments/assets/68e669b9-98e1-43a1-8f1b-4b47bb909aef" />
 <img width="2797" height="1168" alt="image" src="https://github.com/user-attachments/assets/26b97cc7-ee77-48ae-a1b4-202084a07253" />
 <img width="2813" height="1236" alt="image" src="https://github.com/user-attachments/assets/da970c1a-4870-43f1-a66c-b92a838c98de" />
+<img width="2788" height="992" alt="image" src="https://github.com/user-attachments/assets/e610817c-1b28-40a2-82ee-4ae0bfd5f0c8" />
+<img width="2740" height="597" alt="image" src="https://github.com/user-attachments/assets/86f5ab23-512f-4cc7-a862-9b7ede53c895" />
 
 
 
@@ -194,6 +196,13 @@
 <img width="2290" height="1041" alt="image" src="https://github.com/user-attachments/assets/61389d1a-7abe-48a0-ae75-3649006fb255" />
 
 ### Sub Topics of  Advanced Supervised Algorithms Solved Questions 
+<img width="2791" height="1159" alt="image" src="https://github.com/user-attachments/assets/4f55bbe8-03d4-468f-ac92-463545567e92" />
+<img width="2788" height="1201" alt="image" src="https://github.com/user-attachments/assets/604e5462-d417-4246-a788-baea3a863890" />
+<img width="2779" height="1245" alt="image" src="https://github.com/user-attachments/assets/accee75d-98a9-4e04-8693-1f308c81634e" />
+<img width="2822" height="1248" alt="image" src="https://github.com/user-attachments/assets/42f76446-b2c8-4963-b100-1ba9177f2d6d" />
+<img width="2789" height="1236" alt="image" src="https://github.com/user-attachments/assets/a2a7b27c-2706-442e-a647-33a5b77e606a" />
+<img width="2776" height="1183" alt="image" src="https://github.com/user-attachments/assets/02c309a0-1a5f-4f51-b5c9-7eb338a86782" />
+<img width="2781" height="1180" alt="image" src="https://github.com/user-attachments/assets/3b6350ab-89f0-4b4e-a007-8b1afa2ca629" />
 
 
 
