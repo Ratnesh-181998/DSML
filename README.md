@@ -237,6 +237,8 @@
 <img width="2828" height="1180" alt="image" src="https://github.com/user-attachments/assets/b45f78cd-5341-4ac1-9c88-43b142ae6564" />
 <img width="2845" height="1190" alt="image" src="https://github.com/user-attachments/assets/d94d8db4-b6cf-4bf8-b58b-68bc846ab5f9" />
 <img width="2773" height="1249" alt="image" src="https://github.com/user-attachments/assets/e361fa32-ea8e-4f1d-8876-817dc246d071" />
+<img width="2752" height="1174" alt="image" src="https://github.com/user-attachments/assets/32ad1ffa-a740-4bd2-8a13-4e7dbeebbd6f" />
+<img width="2829" height="1070" alt="image" src="https://github.com/user-attachments/assets/d8bc576d-2d85-4db9-a2b4-e348d53f7777" />
 
 
 ---
@@ -250,6 +252,14 @@
 
 
 ### Sub Topics of Mathematics for Machine Learning Solved Questions 
+<img width="2765" height="1174" alt="image" src="https://github.com/user-attachments/assets/c86235f4-611b-4dc3-a316-b089927d2ff8" />
+<img width="2814" height="1190" alt="image" src="https://github.com/user-attachments/assets/ad5cd710-ed77-4bab-aa22-9df5254c65cd" />
+<img width="2767" height="1243" alt="image" src="https://github.com/user-attachments/assets/7ab8edab-c6fa-4e19-a05c-aec48f9f08ca" />
+<img width="2749" height="1238" alt="image" src="https://github.com/user-attachments/assets/030a39af-e592-4090-8231-77e7b18c8998" />
+<img width="2737" height="1172" alt="image" src="https://github.com/user-attachments/assets/9b104935-8fcf-4e82-98d1-0b167bf8ab2b" />
+<img width="2771" height="1227" alt="image" src="https://github.com/user-attachments/assets/ef9c7e20-2835-4ec4-9647-2c1a6f1b1eed" />
+<img width="2778" height="1165" alt="image" src="https://github.com/user-attachments/assets/65cdcc33-ea29-4a5e-864b-3afaa14e362b" />
+<img width="2800" height="189" alt="image" src="https://github.com/user-attachments/assets/8a89572b-062c-4922-9201-f8aaf38f2dd6" />
 
 
 ---
