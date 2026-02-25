@@ -178,6 +178,11 @@
 <img width="2302" height="658" alt="image" src="https://github.com/user-attachments/assets/3163f2c0-29be-4f37-9238-f07d9c721e14" />
 
 ### Sub Topics of Unsupervised Learning, Recommender Systems, Time Series & Forecasting Solved Questions 
+<img width="2784" height="1188" alt="image" src="https://github.com/user-attachments/assets/607658da-309b-49d1-ac36-7f61fde18b06" />
+<img width="2792" height="1261" alt="image" src="https://github.com/user-attachments/assets/68e669b9-98e1-43a1-8f1b-4b47bb909aef" />
+<img width="2797" height="1168" alt="image" src="https://github.com/user-attachments/assets/26b97cc7-ee77-48ae-a1b4-202084a07253" />
+<img width="2813" height="1236" alt="image" src="https://github.com/user-attachments/assets/da970c1a-4870-43f1-a66c-b92a838c98de" />
+
 
 
 ---
