@@ -235,56 +235,124 @@
 
 ## DATA ANALYST
 
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
-### 10.Product Analytics  
+---
+
+## 10.Product Analytics  
+
+### Sub Topics of Product Analytics  
 
 
-### 9.Tableau, Power BI & Excel 
+### Sub Topics of Product Analytics Solved Questions 
 
 
-### 8.Data Analytics & Visualization – Fundamentals
+---
+
+## 9.Tableau, Power BI & Excel 
 
 
-### 7.Data Analytics & Visualization – Probability & Statistics
+### Sub Topics of Tableau, Power BI & Excel 
+
+### Sub Topics of Tableau, Power BI & Excel  Solved Questions 
 
 
-### 6.Data Analytics & Visualization – Python Libraries
+---
+
+## 8.Data Analytics & Visualization – Fundamentals
+
+### Sub Topics of Data Analytics & Visualization – Fundamentals 
 
 
+### Sub Topics of Data Analytics & Visualization – Fundamentals Solved Questions 
+
+
+---
+
+## 7.Data Analytics & Visualization – Probability & Statistics
+
+### Sub Topics of Data Analytics & Visualization – Probability & Statistics
+
+
+### Sub Topics of Data Analytics & Visualization – Probability & Statistics Solved Questions 
+
+
+---
+
+## 6.Data Analytics & Visualization – Python Libraries
+
+### Sub Topics of Data Analytics & Visualization – Python Libraries
+
+
+### Sub Topics of Data Analytics & Visualization – Python Libraries Solved Questions 
+
+
+---
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
 ## SQL
 
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
+---
 
 ###  5.Common Core Tools (SQL)
 
 
+### Sub Topics of Common Core Tools (SQL)
 
+
+### Sub Topics of Common Core Tools (SQL) Solved Questions 
+
+
+---
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
 ## Python Programming | OOPS Concepts | DSA
 
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
+---
 
-### 4.Introduction to Problem Solving (Intermediate) – 2   
+## 4.Introduction to Problem Solving (Intermediate) – 2   
+
+### Sub Topics of Introduction to Problem Solving (Intermediate) – 2
 
 
-### 3.Introduction to Problem Solving (Intermediate) – 1
+### Sub Topics of Introduction to Problem Solving (Intermediate) – 2 Solved Questions 
 
 
-### 2.Introduction to Programming (Beginner) – 2 
+---
 
+## 3.Introduction to Problem Solving (Intermediate) – 1
+
+
+### Sub Topics of Introduction to Problem Solving (Intermediate) – 1
+
+
+### Sub Topics of Introduction to Problem Solving (Intermediate) – 1 Solved Questions 
+
+
+---
+
+## 2.Introduction to Programming (Beginner) – 2 
+
+### Sub Topics of Introduction to Programming (Beginner) – 2 
+
+
+### Sub Topics of Introduction to Programming (Beginner) – 2  Solved Questions 
+
+
+---
   
-### 1.Introduction to Programming (Beginner) – 1
+## 1.Introduction to Programming (Beginner) – 1
+
+### Sub Topics of Introduction to Programming (Beginner) – 1
+
+
+### Sub Topics of Introduction to Programming (Beginner) – 1 Solved Questions 
 
 
 ---
