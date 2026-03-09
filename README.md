@@ -87,6 +87,7 @@
 - 22.Prompt Engineering    
 - 23.Generative AI
 - 24.Agentic AI and MCP
+- 25. LLMOps | AIOps
 
 
 
