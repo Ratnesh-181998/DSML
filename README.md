@@ -66,6 +66,8 @@ COMPUTER SCIENCE & IT GATE 2019 || Total Marks 100 (My Score: 67.84)
 
 # [![Scaler](https://img.shields.io/badge/Scaler-FF6B6B?style=for-the-badge&logo=scaler&logoColor=white)](https://www.scaler.com/academy/profile/16d9756ebf65/)
 
+# https://www.scaler.com/academy/profile/16d9756ebf65/
+
 <img width="1864" height="763" alt="image" src="https://github.com/user-attachments/assets/c62856bc-121d-4fa6-9304-a7d8cc761ac3" />
 
 <img width="4097" height="1353" alt="image" src="https://github.com/user-attachments/assets/20448d04-63f0-4af5-92dc-86a8a212ac8c" />
