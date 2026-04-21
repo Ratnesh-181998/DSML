@@ -3,14 +3,6 @@
 </div>
 
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
-
-# Data Science and Machine Learning (DSML) | ML | Deep Learning - Neural Network | Computer Vision | NLP  | AI/ML 1620+ Problem Solved By Ratnesh Kumar Singh 
-
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
-
-
 # Check out my Github Profile!
 
 - Data Scientist | AI/ML | GenAI & Agentic AI | Scalable AI Systems | 1PB+ Data | Cloud 
@@ -61,6 +53,14 @@ COMPUTER SCIENCE & IT GATE 2019 || Total Marks 100 (My Score: 67.84)
 14. General Logical English
 
 ---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
+
+# Data Science and Machine Learning (DSML) | ML | Deep Learning - Neural Network | Computer Vision | NLP  | AI/ML 1620+ Problem Solved By Ratnesh Kumar Singh 
+
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
+
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
