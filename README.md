@@ -31,40 +31,30 @@
 
 ### Algorithms and Data Structure (Competitive Programming Including all coding platform's 5000+ Problems/Questions solved ) : https://github.com/Ratnesh-181998/Algorithms-and-Data-Structures
 
-### [![GATE CS IT 2019](https://img.shields.io/badge/COMPUTER_SCIENCE_IT_GATE_2019-F59E0B?style=for-the-badge&logo=google-scholar&logoColor=black)](https://github.com/Ratnesh-181998/COMPUTER-SCIENCE-IT-GATE-2019)
-
-# COMPUTER SCIENCE AND IT GATE 2019  || Total Marks 100
-COMPUTER SCIENCE & IT GATE 2019 || Total Marks 100 (My Score: 67.84)
-
 ---
 
-## SECTION : A (Heart of CS Subjects) || Marks 20+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
+# [![GATE CS IT 2019](https://img.shields.io/badge/COMPUTER_SCIENCE_IT_GATE_2019-F59E0B?style=for-the-badge&logo=google-scholar&logoColor=black)](https://github.com/Ratnesh-181998/COMPUTER-SCIENCE-IT-GATE-2019)
+
+# https://github.com/Ratnesh-181998/COMPUTER-SCIENCE-IT-GATE-2019
+
+## COMPUTER SCIENCE AND IT GATE 2019  || Total Marks 100
+COMPUTER SCIENCE & IT GATE 2019 || Total Marks 100 (My Score: 67.84)
+## SECTION : A (Heart of CS Subjects) || Marks 20+
 1. Algorithms (Algo)
 2. Programming (C, C++, Java, Javascript, Python)
 3. Data Structures (DS)
-
----
-
 ## SECTION : B (Exam Score Subjects) || Marks 25+
-
 4. Theory of Computation (TOC)
 5. Compiler Design (CD)
 6. DataBase Management System (DBMS)
 7. Digital Electronics & Logic
-
----
-
 ## SECTION : C (Core Subjects) || Marks 25+
-
 8. Computer Networks (CN) and Network Security
 9. Computer Organization & Architecture (COA), Microprocessors
 10. Operating System (OS)
-
----
-
 ## SECTION : D (Mathematics) || Marks 30+
-
 11. Discrete Mathematics
 12. Engineering Mathematics
 13. General Aptitude & Reasoning
