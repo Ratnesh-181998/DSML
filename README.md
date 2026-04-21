@@ -31,6 +31,8 @@
 
 ### Algorithms and Data Structure (Competitive Programming Including all coding platform's 5000+ Problems/Questions solved ) : https://github.com/Ratnesh-181998/Algorithms-and-Data-Structures
 
+### [![GATE CS IT 2019](https://img.shields.io/badge/COMPUTER_SCIENCE_IT_GATE_2019-F59E0B?style=for-the-badge&logo=google-scholar&logoColor=black)](https://github.com/Ratnesh-181998/COMPUTER-SCIENCE-IT-GATE-2019)
+
 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
