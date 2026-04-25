@@ -3,7 +3,7 @@
 </div>
 
 
-# Check out my Github Profile!
+### Check out my Github Profile!
 
 - Data Scientist | AI/ML | GenAI & Agentic AI | Scalable AI Systems | 1PB+ Data | Cloud 
 - Building and deploying production-grade AI/ML & LLM-based systems at scale with real business impact.
@@ -29,24 +29,24 @@
 
 # [![GATE CS IT 2019](https://img.shields.io/badge/COMPUTER_SCIENCE_IT_GATE_2019-F59E0B?style=for-the-badge&logo=google-scholar&logoColor=black)](https://github.com/Ratnesh-181998/COMPUTER-SCIENCE-IT-GATE-2019)
 
-# https://github.com/Ratnesh-181998/COMPUTER-SCIENCE-IT-GATE-2019
+### https://github.com/Ratnesh-181998/COMPUTER-SCIENCE-IT-GATE-2019
 
-## COMPUTER SCIENCE AND IT GATE 2019  || Total Marks 100
+### COMPUTER SCIENCE AND IT GATE 2019  || Total Marks 100
 COMPUTER SCIENCE & IT GATE 2019 || Total Marks 100 (My Score: 67.84)
-## SECTION : A (Heart of CS Subjects) || Marks 20+
+#### SECTION : A (Heart of CS Subjects) || Marks 20+
 1. Algorithms (Algo)
 2. Programming (C, C++, Java, Javascript, Python)
 3. Data Structures (DS)
-## SECTION : B (Exam Score Subjects) || Marks 25+
+#### SECTION : B (Exam Score Subjects) || Marks 25+
 4. Theory of Computation (TOC)
 5. Compiler Design (CD)
 6. DataBase Management System (DBMS)
 7. Digital Electronics & Logic
-## SECTION : C (Core Subjects) || Marks 25+
+#### SECTION : C (Core Subjects) || Marks 25+
 8. Computer Networks (CN) and Network Security
 9. Computer Organization & Architecture (COA), Microprocessors
 10. Operating System (OS)
-## SECTION : D (Mathematics) || Marks 30+
+#### SECTION : D (Mathematics) || Marks 30+
 11. Discrete Mathematics
 12. Engineering Mathematics
 13. General Aptitude & Reasoning
